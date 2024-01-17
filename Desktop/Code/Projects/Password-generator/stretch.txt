@@ -1,0 +1,2 @@
+Try to add a feature that allows you to copy the generated passowrds on click 
+Add a light mode feature and a button that lets you toggle between 
