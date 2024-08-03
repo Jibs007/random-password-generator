@@ -1,0 +1,4 @@
+Add a copy to clipboard feature
+Add light mode 
+Allow user decide how many charachters they want
+Allow users be able to toggle symbols and numbers on/off
