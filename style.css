@@ -36,6 +36,7 @@ button {
   border-radius: 5px;
   margin-top: 50px;
   margin-bottom: 60px;
+  font-family: inherit;
 }
 
 hr {
@@ -47,13 +48,15 @@ hr {
 .password-container {
   margin-top: 40px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 .password-field {
-  width: 250px;
+  width: 280px;
   background-color: #273549;
   border: none;
   height: 40px;
   border-radius: 5px;
+  text-align: center;
+  color: #55f991;
 }
